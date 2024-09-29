@@ -1,5 +1,7 @@
 <h2>Unfinished Towndown RPG Project</h2>
-My last hobby project from PhaserJS
-I won't be using Phaser anymore but this is one of my last projects I tried to experience in for learning how to make a top down rpg with basic mechanics at least?<br>
+My old hobby project from PhaserJS
+br>
 https://www.youtube.com/watch?v=uRHg5DYQhBw <br>
 I made a short video showing what it looks like and what I accomplished.
+<br> <br>
+September 2024 - I've decided to bring PhaserJS back because pure Javascript is intimidating. I'm currently working on a small passion project
